@@ -1,0 +1,34 @@
+{
+  "name": "mwschallenge.com",
+  "version": "0.1.0",
+  "description": "Challenge exercises for the Mobile Web Specialist track of the Google Developer Challenge Scholarship Edit",
+  "main": "",
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thornecc/mwschallenge.com"
+  },
+  "keywords": [
+    "udacity",
+    "javascript",
+    "scholarship",
+    "web"
+  ],
+  "contributors": [
+    {
+      "name": "Alex Thorne",
+      "email": "alex@thorne.cc",
+      "url": "https://alexthorne.net"
+    }
+  ],
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/thornecc/mwschallenge.com/issues"
+  },
+  "homepage": "https://github.com/thornecc/mwschallenge.com#readme",
+  "private": true
+}
